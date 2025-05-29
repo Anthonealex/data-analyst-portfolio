@@ -1,5 +1,3 @@
-# data-analyst-portfolio
-My projects and learnings on the journey to becoming a Data Analyst
 # Data Analyst Portfolio
 
 Hi! I'm Antony Alex, aspiring Data Analyst focused on building skills in Excel, Power BI, SQL, and Python. This repository tracks my journey and showcases projects I've completed as part of a 60-day preparation plan for a role at Deloitte.
